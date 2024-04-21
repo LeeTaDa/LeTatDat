@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T13:15:17.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Qcx9i8CjNZR4jhIw2JQZ" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T13:30:04.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="3A3iT0NFsHZlz1ybjWqL" version="24.2.7" type="github">
   <diagram name="Page-1" id="Iqsweie7DNG1V22xSdKr">
     <mxGraphModel dx="1431" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
           <mxGeometry x="250" y="80" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gb4WSrx7NsK-yjNkoUn3-57" value="Xác nhận email" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="140" width="90" height="85" as="geometry" />
+          <mxGeometry x="345" y="140" width="90" height="85" as="geometry" />
         </mxCell>
         <mxCell id="gb4WSrx7NsK-yjNkoUn3-58" value="&amp;lt;include&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="gb4WSrx7NsK-yjNkoUn3-56" target="gb4WSrx7NsK-yjNkoUn3-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -332,7 +332,7 @@
             <mxPoint x="1430" y="400" as="sourcePoint" />
             <mxPoint x="1470" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1520" y="640" />
+              <mxPoint x="1440" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
