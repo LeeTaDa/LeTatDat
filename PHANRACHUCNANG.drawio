@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SU_FTHZ_mx5GygFDslBZ-8" value="Quản lý hồ sơ người dùng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SU_FTHZ_mx5GygFDslBZ-10" value="Quản lý ứng viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="120" height="60" as="geometry" />
