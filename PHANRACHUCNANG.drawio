@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
   <diagram name="Page-1" id="hQlB4fOFm6FiXwv5Rq5W">
     <mxGraphModel dx="1002" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,9 +20,6 @@
         </mxCell>
         <mxCell id="SU_FTHZ_mx5GygFDslBZ-1" value="Website tuyển dụng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="100" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SU_FTHZ_mx5GygFDslBZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SU_FTHZ_mx5GygFDslBZ-2" target="SU_FTHZ_mx5GygFDslBZ-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SU_FTHZ_mx5GygFDslBZ-2" value="Quản lý đơn tuyển dụng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
@@ -47,9 +44,6 @@
         </mxCell>
         <mxCell id="SU_FTHZ_mx5GygFDslBZ-8" value="Quản lý người dùng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SU_FTHZ_mx5GygFDslBZ-10" value="Quản lý&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SU_FTHZ_mx5GygFDslBZ-12" value="Quản lý hồ sơ ứng tuyển" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
