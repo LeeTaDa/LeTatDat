@@ -21,7 +21,7 @@
         <mxCell id="m5ijg-0fMM_QsaqAX8W5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DcelTPWHg-D9FK-rU0N2-0" target="DcelTPWHg-D9FK-rU0N2-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DcelTPWHg-D9FK-rU0N2-0" value="Phân loại nội dung tài liệu" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="DcelTPWHg-D9FK-rU0N2-0" value="Phân loại tài liệu theo nội dung" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="250" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m5ijg-0fMM_QsaqAX8W5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DcelTPWHg-D9FK-rU0N2-1" target="m5ijg-0fMM_QsaqAX8W5-2">
