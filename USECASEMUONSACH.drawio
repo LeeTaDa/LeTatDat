@@ -1,9 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="CTQoalgfKwerqlKSiYNU">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iUUsebH7R0_WZ-LO42n8-6" target="iUUsebH7R0_WZ-LO42n8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-2" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iUUsebH7R0_WZ-LO42n8-1">
+          <mxGeometry x="-0.1632" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iUUsebH7R0_WZ-LO42n8-7" target="iUUsebH7R0_WZ-LO42n8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iUUsebH7R0_WZ-LO42n8-8" target="iUUsebH7R0_WZ-LO42n8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-5" value="Quản lý mượn trả" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-6" value="Quản lý mượn sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-7" value="Quản lý trả sách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-8" value="Cập nhật thông tin phiếu mượn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-9" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="416.75824361610626" y="194.99903354283293" as="geometry" />
+        </mxCell>
+        <mxCell id="iUUsebH7R0_WZ-LO42n8-10" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="399.99824361610627" y="259.99903354283293" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
